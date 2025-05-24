@@ -1,0 +1,14 @@
+{
+  "name": "snake-api",
+  "version": "1.0.0",
+  "description": "snake data",
+  "main": "one.js",
+  "scripts": {
+    "start":"nodemon one.js"
+  },
+  "author": "snakes",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
